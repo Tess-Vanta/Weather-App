@@ -1,13 +1,130 @@
-body {
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  background-image: url("./assests/bg-out.jpg");
+  background-repeat: no-repeat;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+
+span{
+  font-size: 35px;
+  color: #fff;
+  
+}
+
+
+.app {
+  background-image: url("./assests/bg.jpg");
+  background-repeat: no-repeat;
+  transition: 0.4s ease;
+  height: 90vh;
+  width: 100%;
+}
+.app.cold{
+  background-image: url("./assests/cold.jpg");
+}
+.app.warm {
+  background-image: url("./assests/hot.jpg");
+}
+
+main {
+  padding: 50px 200px 50px 50px;
+  height: 100vh;
+  width: 95.5%;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0)
+  );
+}
+
+
+.search-box .search-bar {
+  display: block;
+  width: 160%;
+  padding: 10px;
+  margin-bottom: 20%;
+
+  appearance: none;
+  background: none;
+  border: none;
+  outline: none;
+
+  background-color: rgba(255, 255, 255, 0.6);
+  border: none;
+  border-radius: 25px;
+
+  box-shadow: 0 5px rgba(0, 0, 0, 0.1);
+
+  color: #313131;
+  font-size: 20px;
+
+  transition: 0.4s ease;
+}
+
+.search-box .search-bar:focus {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: #fff;
+}
+
+.search-box img {
+  color: #fff;
+  max-width: 35px;
+  max-height: 35px;
+  margin-right: 5px;
+}
+
+.location-box .location {
+  width: 160%;
+  color: #fff;
+  font-size: 32px;
+  font-weight: 500;
+  text-align: center;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.6);
+}
+
+.location-box .date{
+  width: 160%;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 300;
+  font-style: italic;
+  text-align: center;
+  text-shadow: 2px 2px rgba(50, 50, 70, 0.6);
+}
+
+.weather-box{
+  width: 160%;
+  text-align: center;
+}
+.weather-box .temp{
+  position: relative;
+  display: inline-block;
+  margin: 30px auto;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+
+  padding: 15px 25px;
+
+  color: #fff;
+  font-size: 60px;
+  font-weight: 900;
+
+  text-shadow: 3px 6px rgba(50, 50, 70, 0.6);
+  text-align: center;
+  box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+.weather-box .weather{
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+  text-shadow: 3px 3px rgba(50, 50, 70, 0.6);
 }
