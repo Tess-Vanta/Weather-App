@@ -3,7 +3,10 @@ A weather app which displays weather forcast around the globe at the moment.
 
 # Table of Content
 - [Introduction](#introduction)
-- External Tecnologies
+- [External Tecnologies](#external-technologies)
+- [Setup](#setup)
+- [Live Preview](#live-preview)
+- [Snapshot](#snapshot)
 
 
 # Introduction
