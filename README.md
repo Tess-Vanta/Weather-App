@@ -26,7 +26,7 @@ $ npm install
 $ npm start
 ```
 
-#Live Preview 
+#Live
 The website is hosted at 
 
 # Snapshot
