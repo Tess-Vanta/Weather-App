@@ -5,7 +5,7 @@ A weather app which displays weather forcast around the globe at the moment.
 - [Introduction](#introduction)
 - [External Technologies](#external-technologies)
 - [Setup](#setup)
-- [Live Preview](#live)
+- [Live Preview](#live-preview)
 - [Snapshot](#snapshot)
 
 
