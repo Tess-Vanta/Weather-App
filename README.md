@@ -1,7 +1,7 @@
-# Weather App
+## Weather App
 A weather app which displays weather forcast around the globe at the moment.
 
-# Table of Content
+## Table of Content
 - [Introduction](#introduction)
 - [External Technologies](#external-technologies)
 - [Setup](#setup)
@@ -9,15 +9,15 @@ A weather app which displays weather forcast around the globe at the moment.
 - [Snapshot](#snapshot)
 
 
-# Introduction
+## Introduction
 This is a training project to understand the concepts of using Api in a custom website developed using React JS Library.
 
-# External Technologies
+## External Technologies
 - React (17.0.2)
 - API (key: "65ef9ef7661119b42b67da8cc7f18200",      
       base: "https://api.openweathermap.org/data/2.5/")
 
-# Setup
+## Setup
 To run this project, install it locally using npm:
 
 ```
@@ -26,10 +26,10 @@ $ npm install
 $ npm start
 ```
 
-# Live Preview
+## Live Preview
 The website is hosted at [Weather App](https://tess-vanta.github.io/Weather-App/)
 
-# Snapshot
+## Snapshot
 
 <img src="https://user-images.githubusercontent.com/72697074/121808623-62bbb300-cc6a-11eb-8366-25b57c411421.png" width="436.5" height="611">   <img src="https://user-images.githubusercontent.com/72697074/121808598-46b81180-cc6a-11eb-94cd-1b5baf65aeab.png" width="436.5" height="611">
 
