@@ -33,6 +33,8 @@ The website is hosted at [Weather App](https://tess-vanta.github.io/Weather-App/
 
 ![image](https://user-images.githubusercontent.com/72697074/121808623-62bbb300-cc6a-11eb-8366-25b57c411421.png)
 
+![test image size]<img src="https://user-images.githubusercontent.com/72697074/121808623-62bbb300-cc6a-11eb-8366-25b57c411421.png" width="400" height="790">
+
 ![image](https://user-images.githubusercontent.com/72697074/121808598-46b81180-cc6a-11eb-94cd-1b5baf65aeab.png)
 
 
