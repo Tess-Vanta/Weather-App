@@ -30,3 +30,8 @@ $ npm start
 The website is hosted at [Weather App](https://tess-vanta.github.io/Weather-App/)
 
 # Snapshot
+
+![image](https://user-images.githubusercontent.com/72697074/121808518-f3de5a00-cc69-11eb-98d6-1c9639065b46.png)
+
+![image](https://user-images.githubusercontent.com/72697074/121808549-0ce70b00-cc6a-11eb-961a-4538b03f3301.png)
+
