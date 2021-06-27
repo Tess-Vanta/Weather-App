@@ -1,5 +1,5 @@
 ## Weather App
-A weather app which displays weather forcast in degree celcius around the globe at the moment.
+A weather app which displays weather forecast in degree Celcius around the globe at the moment.
 
 ## Table of Content
 - [Introduction](#introduction)
